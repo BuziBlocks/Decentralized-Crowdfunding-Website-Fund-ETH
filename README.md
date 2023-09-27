@@ -15,7 +15,7 @@ Fund-ETH is a groundbreaking decentralized crowdfunding platform designed specif
 
 6. **Community Involvement**: Local and global communities can come together on the platform, organizing and supporting disaster relief campaigns, fostering a sense of shared responsibility.
 
-7. **Automated Aid Distribution**: Smart contracts automate the allocation of funds, ensuring that donations are distributed to the most urgent and deserving causes efficiently.
+7. **Automated Aid Distribution**: Smart contracts automate the  allocation of funds, ensuring that donations are distributed to the most urgent and deserving causes efficiently.
 
 8. **Real-time Updates**: Donors receive real-time updates on how their contributions are being utilized, promoting transparency and trust in the relief efforts.
 
