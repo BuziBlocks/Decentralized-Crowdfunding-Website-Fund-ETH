@@ -7,7 +7,7 @@ Fund-ETH is a groundbreaking decentralized crowdfunding platform designed specif
 
 2. **Immediate Response**: In times of crisis, Fund-ETH enables rapid fundraising and immediate deployment of aid, providing crucial assistance to affected communities when they need it most.
 
-3. **Global Reach**: Fund-ETH has a global user base, allowing people from around the world to contribute to disaster relief efforts, fostering international solidarity in times of need.
+3. **Global Reach**: Fund-ETH has a global user base,allowing people from around the world to contribute to disaster relief efforts, fostering international solidarity in times of need.
 
 4. **Reduced Overheads**: By eliminating traditional fundraising and administrative overheads, more of the donated funds can be channeled directly to relief operations.
 
